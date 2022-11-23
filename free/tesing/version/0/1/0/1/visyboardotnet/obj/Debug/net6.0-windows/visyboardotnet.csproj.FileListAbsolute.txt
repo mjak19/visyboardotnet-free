@@ -1,0 +1,17 @@
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\bin\Debug\net6.0-windows\visyboardotnet.exe
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\bin\Debug\net6.0-windows\visyboardotnet.deps.json
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\bin\Debug\net6.0-windows\visyboardotnet.runtimeconfig.json
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\bin\Debug\net6.0-windows\visyboardotnet.dll
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\bin\Debug\net6.0-windows\visyboardotnet.pdb
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\bin\Debug\net6.0-windows\WindowsInput.dll
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.csproj.AssemblyReference.cache
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.GeneratedMSBuildEditorConfig.editorconfig
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.AssemblyInfoInputs.cache
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.AssemblyInfo.cs
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.csproj.CoreCompileInputs.cache
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.csproj.CopyComplete
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.dll
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\refint\visyboardotnet.dll
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.pdb
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\visyboardotnet.genruntimeconfig.cache
+E:\physical\home\maj\GoogleDriveFS\programming\projects to sync with phone\virtual keyboard\dotnet\csharp\free\tesing\version\0\1\0\1\visyboardotnet\obj\Debug\net6.0-windows\ref\visyboardotnet.dll

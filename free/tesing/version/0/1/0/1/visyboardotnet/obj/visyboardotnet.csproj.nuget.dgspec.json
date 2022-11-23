@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\physical\\home\\maj\\GoogleDriveFS\\programming\\projects to sync with phone\\virtual keyboard\\dotnet\\csharp\\free\\tesing\\version\\0\\1\\0\\1\\visyboardotnet\\visyboardotnet.csproj": {}
+  },
+  "projects": {
+    "E:\\physical\\home\\maj\\GoogleDriveFS\\programming\\projects to sync with phone\\virtual keyboard\\dotnet\\csharp\\free\\tesing\\version\\0\\1\\0\\1\\visyboardotnet\\visyboardotnet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\physical\\home\\maj\\GoogleDriveFS\\programming\\projects to sync with phone\\virtual keyboard\\dotnet\\csharp\\free\\tesing\\version\\0\\1\\0\\1\\visyboardotnet\\visyboardotnet.csproj",
+        "projectName": "visyboardotnet",
+        "projectPath": "E:\\physical\\home\\maj\\GoogleDriveFS\\programming\\projects to sync with phone\\virtual keyboard\\dotnet\\csharp\\free\\tesing\\version\\0\\1\\0\\1\\visyboardotnet\\visyboardotnet.csproj",
+        "packagesPath": "C:\\Users\\maj\\.nuget\\packages\\",
+        "outputPath": "E:\\physical\\home\\maj\\GoogleDriveFS\\programming\\projects to sync with phone\\virtual keyboard\\dotnet\\csharp\\free\\tesing\\version\\0\\1\\0\\1\\visyboardotnet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "WindowsInput": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "visyboardotnet/1.0.0": {
+        "dependencies": {
+          "WindowsInput": "0.2.0"
+        },
+        "runtime": {
+          "visyboardotnet.dll": {}
+        }
+      },
+      "WindowsInput/0.2.0": {
+        "runtime": {
+          "lib/net20/WindowsInput.dll": {
+            "assemblyVersion": "0.2.0.0",
+            "fileVersion": "0.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "visyboardotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowsInput/0.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R3l6rq11diHPFbmF6uYeOqFk9pONJKuvb0N+mXhLsYVGbxXOXCkw2FU5cscEAVK+vDXdW49MIbWZ+i6PHW9+Yw==",
+      "path": "windowsinput/0.2.0",
+      "hashPath": "windowsinput.0.2.0.nupkg.sha512"
+    }
+  }
+}

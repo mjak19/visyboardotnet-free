@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "WindowsInput/0.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/WindowsInput.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net20/WindowsInput.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsInput/0.2.0": {
+      "sha512": "R3l6rq11diHPFbmF6uYeOqFk9pONJKuvb0N+mXhLsYVGbxXOXCkw2FU5cscEAVK+vDXdW49MIbWZ+i6PHW9+Yw==",
+      "type": "package",
+      "path": "windowsinput/0.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/WindowsInput.dll",
+        "lib/net20/WindowsInput.xml",
+        "windowsinput.0.2.0.nupkg.sha512",
+        "windowsinput.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "WindowsInput"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\maj\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\physical\\home\\maj\\GoogleDriveFS\\programming\\projects to sync with phone\\virtual keyboard\\dotnet\\csharp\\free\\tesing\\version\\0\\1\\0\\1\\visyboardotnet\\visyboardotnet.csproj",
+      "projectName": "visyboardotnet",
+      "projectPath": "E:\\physical\\home\\maj\\GoogleDriveFS\\programming\\projects to sync with phone\\virtual keyboard\\dotnet\\csharp\\free\\tesing\\version\\0\\1\\0\\1\\visyboardotnet\\visyboardotnet.csproj",
+      "packagesPath": "C:\\Users\\maj\\.nuget\\packages\\",
+      "outputPath": "E:\\physical\\home\\maj\\GoogleDriveFS\\programming\\projects to sync with phone\\virtual keyboard\\dotnet\\csharp\\free\\tesing\\version\\0\\1\\0\\1\\visyboardotnet\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\maj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "WindowsInput": {
+            "target": "Package",
+            "version": "(, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency WindowsInput does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "WindowsInput",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsInput 0.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsInput",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
